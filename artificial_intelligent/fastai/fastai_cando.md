@@ -6,7 +6,9 @@
 	- file_deleter
 ## [第三课 data blocks, 多标签分类，图片像素隔离](https://www.youtube.com/watch?v=MpZxV6DVsmM)
 
-- dat
+- [Kaggle API](https://github.com/Kaggle/kaggle-api)
+- [data block API](https://docs.fast.ai/data_block.html)
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNDEwNjgyOCwyMDk5NzQ5OTZdfQ==
+eyJoaXN0b3J5IjpbLTE4NzEzMTY3NTUsMjA5OTc0OTk2XX0=
 -->
