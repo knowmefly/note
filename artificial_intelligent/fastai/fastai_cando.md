@@ -8,7 +8,8 @@
 
 - [Kaggle API](https://github.com/Kaggle/kaggle-api)
 - [data block API](https://docs.fast.ai/data_block.html)
-- 
+- learner.to_fp16() 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzEzMTY3NTUsMjA5OTc0OTk2XX0=
+eyJoaXN0b3J5IjpbMTEzMTg2OTk1NiwtMTg3MTMxNjc1NSwyMD
+k5NzQ5OTZdfQ==
 -->
