@@ -13,9 +13,9 @@
 - Planet 卫星图片识别所属国家（分类任务） 
 - camvid 语义分割（分类任务）
 - head-pose 人脸部中心识别  预测一个点坐标（回归任务）
-- 
+- IMDB 电影评论（NLP）
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjQxMTE0NywtMTE1MTI5MTU5Nyw2Mz
+eyJoaXN0b3J5IjpbMTg3NTg2OTk5MCwtMTE1MTI5MTU5Nyw2Mz
 kxOTAxMjEsMTcwNDUwMzY0MiwtMTc5MDYzOTExMiwtMTg3MTMx
 Njc1NSwyMDk5NzQ5OTZdfQ==
 -->
