@@ -8,8 +8,8 @@
 
 - [Kaggle API](https://github.com/Kaggle/kaggle-api)
 - [data block API](https://docs.fast.ai/data_block.html)
-- learner.to_fp16() 
+- learner.to_fp16() 降低浮点运算的速度
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMTg2OTk1NiwtMTg3MTMxNjc1NSwyMD
-k5NzQ5OTZdfQ==
+eyJoaXN0b3J5IjpbLTE3OTA2MzkxMTIsLTE4NzEzMTY3NTUsMj
+A5OTc0OTk2XX0=
 -->
