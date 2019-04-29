@@ -9,9 +9,10 @@
 - [Kaggle API](https://github.com/Kaggle/kaggle-api)
 - [data block API](https://docs.fast.ai/data_block.html)
 - learner.to_fp16() 降低浮点运算的速度
-- 
+- Planet 卫星图片识别所属国家 
 - camvid 语义分割
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MjI5NjAwMCwtMTc5MDYzOTExMiwtMT
+eyJoaXN0b3J5IjpbMTcwNDUwMzY0MiwtMTc5MDYzOTExMiwtMT
 g3MTMxNjc1NSwyMDk5NzQ5OTZdfQ==
 -->
