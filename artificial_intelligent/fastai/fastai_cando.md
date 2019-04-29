@@ -12,8 +12,10 @@
 - learner.to_fp16() 降低浮点运算的速度
 - Planet 卫星图片识别所属国家 
 - camvid 语义分割
+- IMDB 人蓝布
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM5MTkwMTIxLDE3MDQ1MDM2NDIsLTE3OT
-A2MzkxMTIsLTE4NzEzMTY3NTUsMjA5OTc0OTk2XX0=
+eyJoaXN0b3J5IjpbODE3Mjk1NzAsNjM5MTkwMTIxLDE3MDQ1MD
+M2NDIsLTE3OTA2MzkxMTIsLTE4NzEzMTY3NTUsMjA5OTc0OTk2
+XX0=
 -->
