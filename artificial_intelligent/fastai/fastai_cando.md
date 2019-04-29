@@ -10,12 +10,12 @@
 - [Kaggle API](https://github.com/Kaggle/kaggle-api)
 - [data block API](https://docs.fast.ai/data_block.html)
 - learner.to_fp16() 降低浮点运算的速度
-- Planet 卫星图片识别所属国家 
-- camvid 语义分割
-- IMDB 人蓝布
+- Planet 卫星图片识别所属国家（分类任务） 
+- camvid 语义分割（分类任务）
+- IMDB 人脸部中心识别  预测一个点坐标（回归任务）
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE3Mjk1NzAsNjM5MTkwMTIxLDE3MDQ1MD
-M2NDIsLTE3OTA2MzkxMTIsLTE4NzEzMTY3NTUsMjA5OTc0OTk2
-XX0=
+eyJoaXN0b3J5IjpbLTExNTEyOTE1OTcsNjM5MTkwMTIxLDE3MD
+Q1MDM2NDIsLTE3OTA2MzkxMTIsLTE4NzEzMTY3NTUsMjA5OTc0
+OTk2XX0=
 -->
