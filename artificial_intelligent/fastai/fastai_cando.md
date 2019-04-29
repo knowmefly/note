@@ -9,7 +9,9 @@
 - [Kaggle API](https://github.com/Kaggle/kaggle-api)
 - [data block API](https://docs.fast.ai/data_block.html)
 - learner.to_fp16() 降低浮点运算的速度
+- 
+- camvid 语义分割
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTA2MzkxMTIsLTE4NzEzMTY3NTUsMj
-A5OTc0OTk2XX0=
+eyJoaXN0b3J5IjpbMTc4MjI5NjAwMCwtMTc5MDYzOTExMiwtMT
+g3MTMxNjc1NSwyMDk5NzQ5OTZdfQ==
 -->
