@@ -17,10 +17,13 @@
 - 
 
 ## 第四课: NLP; Tabular data; Collaborative filtering; Embeddings
-- 
+- NLP
+- Tabular 表格数据处理
+- Collaborative 协同过滤预测电影评分
+- EmbeddingDotBias 源码阅读
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTk4MDgxNDgsLTMwOTk5OTcxMSwxOD
-c1ODY5OTkwLC0xMTUxMjkxNTk3LDYzOTE5MDEyMSwxNzA0NTAz
-NjQyLC0xNzkwNjM5MTEyLC0xODcxMzE2NzU1LDIwOTk3NDk5Nl
-19
+eyJoaXN0b3J5IjpbMTU4NDA2MjEzMCwtMTk1OTgwODE0OCwtMz
+A5OTk5NzExLDE4NzU4Njk5OTAsLTExNTEyOTE1OTcsNjM5MTkw
+MTIxLDE3MDQ1MDM2NDIsLTE3OTA2MzkxMTIsLTE4NzEzMTY3NT
+UsMjA5OTc0OTk2XX0=
 -->
