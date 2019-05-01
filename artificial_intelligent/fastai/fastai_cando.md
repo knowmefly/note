@@ -14,8 +14,9 @@
 - camvid 语义分割（分类任务）
 - head-pose 人脸部中心识别  预测一个点坐标（回归任务）
 - IMDB 电影评论（NLP）
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NTg2OTk5MCwtMTE1MTI5MTU5Nyw2Mz
-kxOTAxMjEsMTcwNDUwMzY0MiwtMTc5MDYzOTExMiwtMTg3MTMx
-Njc1NSwyMDk5NzQ5OTZdfQ==
+eyJoaXN0b3J5IjpbLTMwOTk5OTcxMSwxODc1ODY5OTkwLC0xMT
+UxMjkxNTk3LDYzOTE5MDEyMSwxNzA0NTAzNjQyLC0xNzkwNjM5
+MTEyLC0xODcxMzE2NzU1LDIwOTk3NDk5Nl19
 -->
