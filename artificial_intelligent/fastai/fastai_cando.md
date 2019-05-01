@@ -15,8 +15,12 @@
 - head-pose 人脸部中心识别  预测一个点坐标（回归任务）
 - IMDB 电影评论（NLP）
 - 
+
+## 第四课: NLP; Tabular data; Collaborative filtering; Embeddings
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwOTk5OTcxMSwxODc1ODY5OTkwLC0xMT
-UxMjkxNTk3LDYzOTE5MDEyMSwxNzA0NTAzNjQyLC0xNzkwNjM5
-MTEyLC0xODcxMzE2NzU1LDIwOTk3NDk5Nl19
+eyJoaXN0b3J5IjpbLTE5NTk4MDgxNDgsLTMwOTk5OTcxMSwxOD
+c1ODY5OTkwLC0xMTUxMjkxNTk3LDYzOTE5MDEyMSwxNzA0NTAz
+NjQyLC0xNzkwNjM5MTEyLC0xODcxMzE2NzU1LDIwOTk3NDk5Nl
+19
 -->
