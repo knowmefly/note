@@ -22,10 +22,10 @@
 - Collaborative 协同过滤预测电影评分
 - EmbeddingDotBias 源码阅读
 
-## 
+## # Lesson 5: Back propagation; Accelerated SGD; Neural net from scratch
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MzE1OTYxMCwxNTg0MDYyMTMwLC0xOT
-U5ODA4MTQ4LC0zMDk5OTk3MTEsMTg3NTg2OTk5MCwtMTE1MTI5
-MTU5Nyw2MzkxOTAxMjEsMTcwNDUwMzY0MiwtMTc5MDYzOTExMi
-wtMTg3MTMxNjc1NSwyMDk5NzQ5OTZdfQ==
+eyJoaXN0b3J5IjpbMTA0MjMwMDA4MiwtNTQzMTU5NjEwLDE1OD
+QwNjIxMzAsLTE5NTk4MDgxNDgsLTMwOTk5OTcxMSwxODc1ODY5
+OTkwLC0xMTUxMjkxNTk3LDYzOTE5MDEyMSwxNzA0NTAzNjQyLC
+0xNzkwNjM5MTEyLC0xODcxMzE2NzU1LDIwOTk3NDk5Nl19
 -->
