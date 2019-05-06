@@ -22,13 +22,15 @@
 - Collaborative 协同过滤预测电影评分
 - EmbeddingDotBias 源码阅读
 
-## # Lesson 5: Back propagation; Accelerated SGD; Neural net from scratch
+##  Lesson 5: Back propagation; Accelerated SGD; Neural net from scratch
 
-## 大三带
+##  Lesson 6: Regularization; Convolutions; Data ethics
+
+##  Lesson 7: Resnets from scratch; U-net; Generative (adversarial) networks
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTE2MzI1OTgsMTA0MjMwMDA4MiwtNT
-QzMTU5NjEwLDE1ODQwNjIxMzAsLTE5NTk4MDgxNDgsLTMwOTk5
-OTcxMSwxODc1ODY5OTkwLC0xMTUxMjkxNTk3LDYzOTE5MDEyMS
-wxNzA0NTAzNjQyLC0xNzkwNjM5MTEyLC0xODcxMzE2NzU1LDIw
-OTk3NDk5Nl19
+eyJoaXN0b3J5IjpbLTExNDk0MTEyODIsLTEzMTE2MzI1OTgsMT
+A0MjMwMDA4MiwtNTQzMTU5NjEwLDE1ODQwNjIxMzAsLTE5NTk4
+MDgxNDgsLTMwOTk5OTcxMSwxODc1ODY5OTkwLC0xMTUxMjkxNT
+k3LDYzOTE5MDEyMSwxNzA0NTAzNjQyLC0xNzkwNjM5MTEyLC0x
+ODcxMzE2NzU1LDIwOTk3NDk5Nl19
 -->
