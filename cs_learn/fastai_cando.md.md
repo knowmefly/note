@@ -28,6 +28,8 @@
 - SGD
 - Adam RMSprop
 ##  Lesson 7: Resnets from scratch; U-net; Generative (adversarial) networks6:
+
+## 123
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NjM4MzU1MF19
+eyJoaXN0b3J5IjpbLTEyODI1NzkyMjQsMTg1NjM4MzU1MF19
 -->
