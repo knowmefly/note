@@ -6,7 +6,13 @@
 	4. 
  	- 具体业务
 	 	1. 华掌柜
-	 	2. 生态闭环（唤醒、提供） 
+	 	2. 生态闭环（唤醒、提供服务、） 
+
+
+## 人工智能相关行业
+- 制造业
+- 医院
+- 教育
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk3OTIwMzc3XX0=
+eyJoaXN0b3J5IjpbMTI4OTkxOTgwXX0=
 -->
