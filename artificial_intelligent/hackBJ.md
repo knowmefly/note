@@ -14,6 +14,17 @@
 - 医院
 - 教育
 
+## 产品方面应用
+- 更多的用户
+- 数据驱动
+- 搜索引擎  顾清
+- 同理心 想象力  中间是逻辑和工具  马如飞
+
+## 边缘计算
+- 优势 
+	1. 更快的响应
+
+- 国家电网
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MDgyNjkwNiwxMjg5OTE5ODBdfQ==
+eyJoaXN0b3J5IjpbLTE4ODU4MTE1NjcsMTI4OTkxOTgwXX0=
 -->
