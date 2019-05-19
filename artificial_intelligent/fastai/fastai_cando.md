@@ -24,16 +24,17 @@
 
 ##  Lesson 5: Back propagation; Accelerated SGD; Neural net from scratch
 
+
 ##  Lesson 6: Regularization; Convolutions; Data ethics
 - SGD
 - Adam RMSprop
 ##  Lesson 7: Resnets from scratch; U-net; Generative (adversarial) networks6:
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4ODIxNzg3NiwtMTI4MjU3OTIyNCwxOD
-U2MzgzNTUwLC0xMTQ5NDExMjgyLC0xMzExNjMyNTk4LC01NDMx
-NTk2MTAsMTU4NDA2MjEzMCwtMTk1OTgwODE0OCwtMzA5OTk5Nz
-ExLDE4NzU4Njk5OTAsLTExNTEyOTE1OTcsNjM5MTkwMTIxLDE3
-MDQ1MDM2NDIsLTE3OTA2MzkxMTIsLTE4NzEzMTY3NTUsMjA5OT
-c0OTk2XX0=
+eyJoaXN0b3J5IjpbNjc4MDU3NTYyLC0xMjgyNTc5MjI0LDE4NT
+YzODM1NTAsLTExNDk0MTEyODIsLTEzMTE2MzI1OTgsLTU0MzE1
+OTYxMCwxNTg0MDYyMTMwLC0xOTU5ODA4MTQ4LC0zMDk5OTk3MT
+EsMTg3NTg2OTk5MCwtMTE1MTI5MTU5Nyw2MzkxOTAxMjEsMTcw
+NDUwMzY0MiwtMTc5MDYzOTExMiwtMTg3MTMxNjc1NSwyMDk5Nz
+Q5OTZdfQ==
 -->
