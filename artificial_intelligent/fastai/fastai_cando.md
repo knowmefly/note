@@ -16,7 +16,7 @@
 - IMDB 电影评论（NLP）
 - 
 
-## 第四课: NLP; Tabular data; Collaborative filtering; Embeddings
+## 第四课: NLP; Tabular data; Collaborative filtering; 
 - NLP
 - Tabular 表格数据处理
 - Collaborative 协同过滤预测电影评分
@@ -31,10 +31,10 @@
 ##  Lesson 7: Resnets from scratch; U-net; Generative (adversarial) networks6:
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc4MDU3NTYyLC0xMjgyNTc5MjI0LDE4NT
-YzODM1NTAsLTExNDk0MTEyODIsLTEzMTE2MzI1OTgsLTU0MzE1
-OTYxMCwxNTg0MDYyMTMwLC0xOTU5ODA4MTQ4LC0zMDk5OTk3MT
-EsMTg3NTg2OTk5MCwtMTE1MTI5MTU5Nyw2MzkxOTAxMjEsMTcw
-NDUwMzY0MiwtMTc5MDYzOTExMiwtMTg3MTMxNjc1NSwyMDk5Nz
-Q5OTZdfQ==
+eyJoaXN0b3J5IjpbMjAxNTQ0MjEwMiw2NzgwNTc1NjIsLTEyOD
+I1NzkyMjQsMTg1NjM4MzU1MCwtMTE0OTQxMTI4MiwtMTMxMTYz
+MjU5OCwtNTQzMTU5NjEwLDE1ODQwNjIxMzAsLTE5NTk4MDgxND
+gsLTMwOTk5OTcxMSwxODc1ODY5OTkwLC0xMTUxMjkxNTk3LDYz
+OTE5MDEyMSwxNzA0NTAzNjQyLC0xNzkwNjM5MTEyLC0xODcxMz
+E2NzU1LDIwOTk3NDk5Nl19
 -->
