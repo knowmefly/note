@@ -32,9 +32,11 @@
 - **su**
 	- “-”真实切换身份
 	- 切换身份
-- **sudo
+- **sudo**
+	- 给与普通用户root权限
+- **
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NTY0NjYyNywtMTM2NDIyMTI3MCwtMT
+eyJoaXN0b3J5IjpbLTg2OTIwNDQ4NCwtMTM2NDIyMTI3MCwtMT
 Q0NjE3Njc1MSwtMjAwMzcxNTczNywtMzk2MjI3Mzg0LC01MTM4
 NDM0ODEsMTYxNjM0ODIyNCwxOTU3NTkwMzddfQ==
 -->
