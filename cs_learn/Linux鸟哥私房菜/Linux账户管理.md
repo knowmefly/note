@@ -30,10 +30,11 @@
 	- 获取文件锁信息
 
 - **su**
+	- “-”真实切换身份
 	- 切换身份
 - **
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDYxNzY3NTEsLTIwMDM3MTU3MzcsLT
-M5NjIyNzM4NCwtNTEzODQzNDgxLDE2MTYzNDgyMjQsMTk1NzU5
-MDM3XX0=
+eyJoaXN0b3J5IjpbLTEzNjQyMjEyNzAsLTE0NDYxNzY3NTEsLT
+IwMDM3MTU3MzcsLTM5NjIyNzM4NCwtNTEzODQzNDgxLDE2MTYz
+NDgyMjQsMTk1NzU5MDM3XX0=
 -->
