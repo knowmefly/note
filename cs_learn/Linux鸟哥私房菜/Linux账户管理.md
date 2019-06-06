@@ -1,18 +1,8 @@
- 1.  **UID、GID**
-	- 
- - [ ] 
- - [ ] 
-
-> 
-|
-|解析数据，以行为基准|  |
-|----------|--|
-|          |  |
-|  |
-|----------|--|
-|          |  |
+ -  **UID、GID**
+	- 用户ID和z组ID
+- ****
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDM2MDMzNTldfQ==
+eyJoaXN0b3J5IjpbMTk1NzU5MDM3XX0=
 -->
