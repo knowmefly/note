@@ -34,9 +34,10 @@
 	- 切换身份
 - **sudo**
 	- 给与普通用户root权限
-- **
+- **visudo**
+	- 针对sudo语法赋予权限
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2OTIwNDQ4NCwtMTM2NDIyMTI3MCwtMT
+eyJoaXN0b3J5IjpbLTM3MzU3MTI0OSwtMTM2NDIyMTI3MCwtMT
 Q0NjE3Njc1MSwtMjAwMzcxNTczNywtMzk2MjI3Mzg0LC01MTM4
 NDM0ODEsMTYxNjM0ODIyNCwxOTU3NTkwMzddfQ==
 -->
