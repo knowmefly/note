@@ -12,9 +12,13 @@
 	- 删除用户
 - **finger**
 	- 查阅用户信息
-- **
+- **chfn**
+	- 修改用户信息
+- **chsh**
+	- 修改shell内容
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMzg0MzQ4MSwxNjE2MzQ4MjI0LDE5NT
-c1OTAzN119
+eyJoaXN0b3J5IjpbMzE0MTExMzQwLC01MTM4NDM0ODEsMTYxNj
+M0ODIyNCwxOTU3NTkwMzddfQ==
 -->
