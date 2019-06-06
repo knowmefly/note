@@ -10,9 +10,11 @@
 	- 后续对新增用户进行组管理
 - **userdel**
 	- 删除用户
-
+- **finger**
+	- 查阅用户信息
+- **
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MjI1MjA2NiwxNjE2MzQ4MjI0LDE5NT
+eyJoaXN0b3J5IjpbLTUxMzg0MzQ4MSwxNjE2MzQ4MjI0LDE5NT
 c1OTAzN119
 -->
