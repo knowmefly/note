@@ -36,10 +36,16 @@
 	- 给与普通用户root权限
 - **visudo**
 	- 针对sudo语法赋予权限
--
+
+- **PAM模块**
+	- 独立API，管理登录验证
+- ** w，who**
+	- 查看目前用户
+- **lastlog**
+	- 查看zuih 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MDE1MjUzNCwtMzczNTcxMjQ5LC0xMz
-Y0MjIxMjcwLC0xNDQ2MTc2NzUxLC0yMDAzNzE1NzM3LC0zOTYy
-MjczODQsLTUxMzg0MzQ4MSwxNjE2MzQ4MjI0LDE5NTc1OTAzN1
-19
+eyJoaXN0b3J5IjpbMjg4NjgxOTk5LC0zNzM1NzEyNDksLTEzNj
+QyMjEyNzAsLTE0NDYxNzY3NTEsLTIwMDM3MTU3MzcsLTM5NjIy
+NzM4NCwtNTEzODQzNDgxLDE2MTYzNDgyMjQsMTk1NzU5MDM3XX
+0=
 -->
