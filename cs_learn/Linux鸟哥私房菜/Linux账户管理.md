@@ -29,7 +29,11 @@
 - **getfacl**
 	- 获取文件锁信息
 
+- **su**
+	- 切换身份
+- **
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDM3MTU3MzcsLTM5NjIyNzM4NCwtNT
-EzODQzNDgxLDE2MTYzNDgyMjQsMTk1NzU5MDM3XX0=
+eyJoaXN0b3J5IjpbLTE0NDYxNzY3NTEsLTIwMDM3MTU3MzcsLT
+M5NjIyNzM4NCwtNTEzODQzNDgxLDE2MTYzNDgyMjQsMTk1NzU5
+MDM3XX0=
 -->
