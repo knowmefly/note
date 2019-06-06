@@ -18,9 +18,15 @@
 	- 修改shell内容
 - **id**
 	- 列出用户相关ID
-- **
+- **groupadd**
+	- 新增用户组
+- **groupmod**
+	- 修改组信息
+- **gpasswd**
+	- 类似passwd
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MTA3MjMzMiwtNTEzODQzNDgxLDE2MT
+eyJoaXN0b3J5IjpbLTM5NjIyNzM4NCwtNTEzODQzNDgxLDE2MT
 YzNDgyMjQsMTk1NzU5MDM3XX0=
 -->
