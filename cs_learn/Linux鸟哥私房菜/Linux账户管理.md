@@ -24,9 +24,12 @@
 	- 修改组信息
 - **gpasswd**
 	- 类似passwd
-
+- **setfacl**
+	- 设置文件锁
+- **getfacl**
+	- 获取文件锁信息
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NjIyNzM4NCwtNTEzODQzNDgxLDE2MT
-YzNDgyMjQsMTk1NzU5MDM3XX0=
+eyJoaXN0b3J5IjpbLTIwMDM3MTU3MzcsLTM5NjIyNzM4NCwtNT
+EzODQzNDgxLDE2MTYzNDgyMjQsMTk1NzU5MDM3XX0=
 -->
