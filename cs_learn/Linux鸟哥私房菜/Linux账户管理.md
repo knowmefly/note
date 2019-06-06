@@ -36,8 +36,10 @@
 	- 给与普通用户root权限
 - **visudo**
 	- 针对sudo语法赋予权限
+-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MzU3MTI0OSwtMTM2NDIyMTI3MCwtMT
-Q0NjE3Njc1MSwtMjAwMzcxNTczNywtMzk2MjI3Mzg0LC01MTM4
-NDM0ODEsMTYxNjM0ODIyNCwxOTU3NTkwMzddfQ==
+eyJoaXN0b3J5IjpbLTQ4MDE1MjUzNCwtMzczNTcxMjQ5LC0xMz
+Y0MjIxMjcwLC0xNDQ2MTc2NzUxLC0yMDAzNzE1NzM3LC0zOTYy
+MjczODQsLTUxMzg0MzQ4MSwxNjE2MzQ4MjI0LDE5NTc1OTAzN1
+19
 -->
