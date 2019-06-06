@@ -16,9 +16,11 @@
 	- 修改用户信息
 - **chsh**
 	- 修改shell内容
-
+- **id**
+	- 列出用户相关ID
+- **
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE0MTExMzQwLC01MTM4NDM0ODEsMTYxNj
-M0ODIyNCwxOTU3NTkwMzddfQ==
+eyJoaXN0b3J5IjpbLTc3MTA3MjMzMiwtNTEzODQzNDgxLDE2MT
+YzNDgyMjQsMTk1NzU5MDM3XX0=
 -->
