@@ -32,9 +32,9 @@
 - **su**
 	- “-”真实切换身份
 	- 切换身份
-- **
+- **sudo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjQyMjEyNzAsLTE0NDYxNzY3NTEsLT
-IwMDM3MTU3MzcsLTM5NjIyNzM4NCwtNTEzODQzNDgxLDE2MTYz
-NDgyMjQsMTk1NzU5MDM3XX0=
+eyJoaXN0b3J5IjpbLTg1NTY0NjYyNywtMTM2NDIyMTI3MCwtMT
+Q0NjE3Njc1MSwtMjAwMzcxNTczNywtMzk2MjI3Mzg0LC01MTM4
+NDM0ODEsMTYxNjM0ODIyNCwxOTU3NTkwMzddfQ==
 -->
