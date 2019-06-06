@@ -42,10 +42,11 @@
 - ** w，who**
 	- 查看目前用户
 - **lastlog**
-	- 查看zuih 
+	- 查看最后一次登录记录
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg4NjgxOTk5LC0zNzM1NzEyNDksLTEzNj
-QyMjEyNzAsLTE0NDYxNzY3NTEsLTIwMDM3MTU3MzcsLTM5NjIy
-NzM4NCwtNTEzODQzNDgxLDE2MTYzNDgyMjQsMTk1NzU5MDM3XX
-0=
+eyJoaXN0b3J5IjpbMjg5MzkzNDksLTM3MzU3MTI0OSwtMTM2ND
+IyMTI3MCwtMTQ0NjE3Njc1MSwtMjAwMzcxNTczNywtMzk2MjI3
+Mzg0LC01MTM4NDM0ODEsMTYxNjM0ODIyNCwxOTU3NTkwMzddfQ
+==
 -->
