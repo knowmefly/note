@@ -12,9 +12,10 @@
 5. spare disk：预备磁盘
 6. mdadm：软件模拟RAID
 
-# 逻辑卷
+# 逻辑卷管理器（LVM）
+1. 弹性调整文件系统的容量
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTEyNzI3NDAsNzk2Mzg3OTkyLDEyNz
-kxMTA0ODAsLTEyMTY4OTExMDAsLTEyNDg4ODYxNjYsMTE0ODE5
-NDc1MywtMTc4MjUzMjAwN119
+eyJoaXN0b3J5IjpbMTIyNjg1NDY1MCw3OTYzODc5OTIsMTI3OT
+ExMDQ4MCwtMTIxNjg5MTEwMCwtMTI0ODg4NjE2NiwxMTQ4MTk0
+NzUzLC0xNzgyNTMyMDA3XX0=
 -->
