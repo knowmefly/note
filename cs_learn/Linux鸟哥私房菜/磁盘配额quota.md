@@ -4,8 +4,9 @@
 - **quota**
 	- 管理用户资源，可以针对用户和组
 
+# Software RAID
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5ODU1NzY4LC0xMjQ4ODg2MTY2LDExND
-gxOTQ3NTMsLTE3ODI1MzIwMDddfQ==
+eyJoaXN0b3J5IjpbLTEyMTY4OTExMDAsLTEyNDg4ODYxNjYsMT
+E0ODE5NDc1MywtMTc4MjUzMjAwN119
 -->
