@@ -14,12 +14,12 @@
 
 # 逻辑卷管理器（LVM）
 1. 弹性调整文件系统的容量
-2. PV：最小块
+2. PV：分区块
 3. VG：大磁盘
 4. LV：对大磁盘进行分区
-5. PE：
+5. PE：最小存储块
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MDYyMjcxOCwxMjIyMDMyOTA5LDEyMj
+eyJoaXN0b3J5IjpbMTE3NTA1NTkwMywxMjIyMDMyOTA5LDEyMj
 Y4NTQ2NTAsNzk2Mzg3OTkyLDEyNzkxMTA0ODAsLTEyMTY4OTEx
 MDAsLTEyNDg4ODYxNjYsMTE0ODE5NDc1MywtMTc4MjUzMjAwN1
 19
