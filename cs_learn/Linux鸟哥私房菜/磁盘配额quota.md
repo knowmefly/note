@@ -9,8 +9,8 @@
 2. RAID1：完整备份
 3. RAID 0+1，RAID 1+0：上述组合
 4. RAID 5：用一块硬盘保证数据被完整备份
-5. spare disk：
+5. spare disk：预备磁盘
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTU4ODU0MzAsLTEyMTY4OTExMDAsLT
-EyNDg4ODYxNjYsMTE0ODE5NDc1MywtMTc4MjUzMjAwN119
+eyJoaXN0b3J5IjpbMTI3OTExMDQ4MCwtMTIxNjg5MTEwMCwtMT
+I0ODg4NjE2NiwxMTQ4MTk0NzUzLC0xNzgyNTMyMDA3XX0=
 -->
