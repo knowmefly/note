@@ -5,8 +5,11 @@
 	- 管理用户资源，可以针对用户和组
 
 # Software RAID
-1.
+1. RAID0：性能好
+2. RAID1：完整备份
+3. RAID 0+1，RAID 1+0：上述组合
+4. RAID 5：
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMzNjYxNjA3LC0xMjE2ODkxMTAwLC0xMj
-Q4ODg2MTY2LDExNDgxOTQ3NTMsLTE3ODI1MzIwMDddfQ==
+eyJoaXN0b3J5IjpbMTU3NTUwNDc0MSwtMTIxNjg5MTEwMCwtMT
+I0ODg4NjE2NiwxMTQ4MTk0NzUzLC0xNzgyNTMyMDA3XX0=
 -->
