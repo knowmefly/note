@@ -11,8 +11,10 @@
 4. RAID 5：用一块硬盘保证数据被完整备份
 5. spare disk：预备磁盘
 6. mdadm：软件模拟RAID
+
+# 逻辑卷
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk2Mzg3OTkyLDEyNzkxMTA0ODAsLTEyMT
-Y4OTExMDAsLTEyNDg4ODYxNjYsMTE0ODE5NDc1MywtMTc4MjUz
-MjAwN119
+eyJoaXN0b3J5IjpbLTEzNTEyNzI3NDAsNzk2Mzg3OTkyLDEyNz
+kxMTA0ODAsLTEyMTY4OTExMDAsLTEyNDg4ODYxNjYsMTE0ODE5
+NDc1MywtMTc4MjUzMjAwN119
 -->
