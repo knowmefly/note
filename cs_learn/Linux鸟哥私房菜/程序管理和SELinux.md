@@ -5,8 +5,9 @@
 - **jobs**
 	- 显示后台进程（本bash的生命周期内）
 - **nohup**
-	- 
+	- 放入后台进程（与用户登录无关）
+- **
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjU1NDY3MjgsNjA0NzkxODIxLC0xNz
-gyNTMyMDA3XX0=
+eyJoaXN0b3J5IjpbMTIxODA1NzQ4MSw2MDQ3OTE4MjEsLTE3OD
+I1MzIwMDddfQ==
 -->
