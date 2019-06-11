@@ -11,8 +11,20 @@
 - **nice**
 	- 调整程序优先级
 	- renice：重新设定优先级
-	- 
+
+单项资源分析：
+- **netstat**
+	- 网络监控
+- **dmesg**
+	- 分析内核信息
+- **kill**
+	- 杀死后台进程
+- **killall**
+	- 删除所跟程序所有相关进程
+ - **pstree**
+	 - 列出进程树
+	 - 【-A】：以ASCII字符连接
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMzI5NDAxNSwxMjE4MDU3NDgxLDYwND
-c5MTgyMSwtMTc4MjUzMjAwN119
+eyJoaXN0b3J5IjpbLTEyNjc2MDg1NzcsMTIwMzI5NDAxNSwxMj
+E4MDU3NDgxLDYwNDc5MTgyMSwtMTc4MjUzMjAwN119
 -->
