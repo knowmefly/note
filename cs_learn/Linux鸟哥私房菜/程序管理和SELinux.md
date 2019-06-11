@@ -36,8 +36,10 @@
 	- 进程打开的文件和使用的设备
 - **pidof**
 	- 找到某个进程的PID
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjA3MDg0NzcsLTE3NDI5Mjc2MTYsMT
-M5Mzc4NTg5NSwxMjAzMjk0MDE1LDEyMTgwNTc0ODEsNjA0Nzkx
-ODIxLC0xNzgyNTMyMDA3XX0=
+eyJoaXN0b3J5IjpbMTM4MzY4MTUwMywtMTE2MDcwODQ3NywtMT
+c0MjkyNzYxNiwxMzkzNzg1ODk1LDEyMDMyOTQwMTUsMTIxODA1
+NzQ4MSw2MDQ3OTE4MjEsLTE3ODI1MzIwMDddfQ==
 -->
