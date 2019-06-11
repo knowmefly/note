@@ -27,7 +27,12 @@
  - **pstree**
 	 - 列出进程树
 	 - 【-A】：以ASCII字符连接
+
+- **/proc/***
+	- 该目录下是内存中的信息
+- **
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5Mzc4NTg5NSwxMjAzMjk0MDE1LDEyMT
-gwNTc0ODEsNjA0NzkxODIxLC0xNzgyNTMyMDA3XX0=
+eyJoaXN0b3J5IjpbLTE3NDI5Mjc2MTYsMTM5Mzc4NTg5NSwxMj
+AzMjk0MDE1LDEyMTgwNTc0ODEsNjA0NzkxODIxLC0xNzgyNTMy
+MDA3XX0=
 -->
