@@ -34,9 +34,10 @@
 	- 找到正在使用该文件的程序
 - **lsof**
 	- 进程打开的文件和使用的设备
-
+- **pidof**
+	- 找到某个进程的PID
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMxMzI5MjE4LC0xNzQyOTI3NjE2LDEzOT
-M3ODU4OTUsMTIwMzI5NDAxNSwxMjE4MDU3NDgxLDYwNDc5MTgy
-MSwtMTc4MjUzMjAwN119
+eyJoaXN0b3J5IjpbLTExNjA3MDg0NzcsLTE3NDI5Mjc2MTYsMT
+M5Mzc4NTg5NSwxMjAzMjk0MDE1LDEyMTgwNTc0ODEsNjA0Nzkx
+ODIxLC0xNzgyNTMyMDA3XX0=
 -->
