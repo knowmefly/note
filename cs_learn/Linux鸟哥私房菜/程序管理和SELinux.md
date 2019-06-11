@@ -32,8 +32,10 @@
 	- 该目录下是内存中的信息
 - **fuser**
 	- 找到正在使用该文件的程序
+- **lsof**
+	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ0MzUzOTM4LC0xNzQyOTI3NjE2LDEzOT
-M3ODU4OTUsMTIwMzI5NDAxNSwxMjE4MDU3NDgxLDYwNDc5MTgy
-MSwtMTc4MjUzMjAwN119
+eyJoaXN0b3J5IjpbMTk5MDQ3Nzc3OCwtMTc0MjkyNzYxNiwxMz
+kzNzg1ODk1LDEyMDMyOTQwMTUsMTIxODA1NzQ4MSw2MDQ3OTE4
+MjEsLTE3ODI1MzIwMDddfQ==
 -->
