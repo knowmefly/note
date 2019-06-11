@@ -38,13 +38,14 @@
 	- 找到某个进程的PID
 
 ## SELinux
--安全强化linux
+安全强化linux
 - **DAC**
 	- 自主访问控制
 - **MAC**
 	- 强制访问控制
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODc2NjYxMDEsLTExNjA3MDg0NzcsLT
-E3NDI5Mjc2MTYsMTM5Mzc4NTg5NSwxMjAzMjk0MDE1LDEyMTgw
-NTc0ODEsNjA0NzkxODIxLC0xNzgyNTMyMDA3XX0=
+eyJoaXN0b3J5IjpbMTY4NzAwOTE5NCwtMTE2MDcwODQ3NywtMT
+c0MjkyNzYxNiwxMzkzNzg1ODk1LDEyMDMyOTQwMTUsMTIxODA1
+NzQ4MSw2MDQ3OTE4MjEsLTE3ODI1MzIwMDddfQ==
 -->
