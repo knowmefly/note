@@ -17,6 +17,9 @@
 	- 网络监控
 - **dmesg**
 	- 分析内核信息
+- **vmstat**
+	- 检测系统资源变化
+
 - **kill**
 	- 杀死后台进程
 - **killall**
@@ -25,6 +28,6 @@
 	 - 列出进程树
 	 - 【-A】：以ASCII字符连接
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjc2MDg1NzcsMTIwMzI5NDAxNSwxMj
-E4MDU3NDgxLDYwNDc5MTgyMSwtMTc4MjUzMjAwN119
+eyJoaXN0b3J5IjpbMTM5Mzc4NTg5NSwxMjAzMjk0MDE1LDEyMT
+gwNTc0ODEsNjA0NzkxODIxLC0xNzgyNTMyMDA3XX0=
 -->
