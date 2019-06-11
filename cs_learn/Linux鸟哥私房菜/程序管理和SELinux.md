@@ -33,9 +33,10 @@
 - **fuser**
 	- 找到正在使用该文件的程序
 - **lsof**
-	- 
+	- 进程打开的文件和使用的设备
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MDQ3Nzc3OCwtMTc0MjkyNzYxNiwxMz
-kzNzg1ODk1LDEyMDMyOTQwMTUsMTIxODA1NzQ4MSw2MDQ3OTE4
-MjEsLTE3ODI1MzIwMDddfQ==
+eyJoaXN0b3J5IjpbNjMxMzI5MjE4LC0xNzQyOTI3NjE2LDEzOT
+M3ODU4OTUsMTIwMzI5NDAxNSwxMjE4MDU3NDgxLDYwNDc5MTgy
+MSwtMTc4MjUzMjAwN119
 -->
