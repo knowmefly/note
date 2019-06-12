@@ -44,10 +44,12 @@
 	- 自主访问控制
 - **MAC**
 	- 强制访问控制
-- **getenforce
+- **getenforce**
+	- 查看是否开启SELinux
+	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTcxMjc2MDQsLTg5NjE0NTEyOCwtMT
-k0OTE5Mzc4MSwtMTE2MDcwODQ3NywtMTc0MjkyNzYxNiwxMzkz
-Nzg1ODk1LDEyMDMyOTQwMTUsMTIxODA1NzQ4MSw2MDQ3OTE4Mj
-EsLTE3ODI1MzIwMDddfQ==
+eyJoaXN0b3J5IjpbNjI1MTAxMTcwLC04OTYxNDUxMjgsLTE5ND
+kxOTM3ODEsLTExNjA3MDg0NzcsLTE3NDI5Mjc2MTYsMTM5Mzc4
+NTg5NSwxMjAzMjk0MDE1LDEyMTgwNTc0ODEsNjA0NzkxODIxLC
+0xNzgyNTMyMDA3XX0=
 -->
