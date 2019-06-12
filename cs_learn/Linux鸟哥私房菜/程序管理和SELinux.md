@@ -49,10 +49,11 @@
 	- vim  /etc/selinux/config 开启
 - **sestatus**
 	- 查看SELinux状态
-- **setenforce
+- **setenforce**
+	- 修改状态 0宽容，1强制
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTgwMDExODgsNjI1MTAxMTcwLC04OT
-YxNDUxMjgsLTE5NDkxOTM3ODEsLTExNjA3MDg0NzcsLTE3NDI5
-Mjc2MTYsMTM5Mzc4NTg5NSwxMjAzMjk0MDE1LDEyMTgwNTc0OD
-EsNjA0NzkxODIxLC0xNzgyNTMyMDA3XX0=
+eyJoaXN0b3J5IjpbLTU5MDA4ODc3Miw2MjUxMDExNzAsLTg5Nj
+E0NTEyOCwtMTk0OTE5Mzc4MSwtMTE2MDcwODQ3NywtMTc0Mjky
+NzYxNiwxMzkzNzg1ODk1LDEyMDMyOTQwMTUsMTIxODA1NzQ4MS
+w2MDQ3OTE4MjEsLTE3ODI1MzIwMDddfQ==
 -->
