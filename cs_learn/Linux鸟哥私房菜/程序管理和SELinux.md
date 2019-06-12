@@ -55,11 +55,15 @@
 	- 修改SELinux下文件权限
 - **restorecon**
 	- 重新修改该目录下的文件权限
--
+- **seinfo**
+	- 查看SE策略状态
+- **sesearch**
+	- 寻找查询类型可读取文件资源
+- **
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU1NTYxMjY5LC0zNzE5NDM5MDAsLTU5MD
-A4ODc3Miw2MjUxMDExNzAsLTg5NjE0NTEyOCwtMTk0OTE5Mzc4
-MSwtMTE2MDcwODQ3NywtMTc0MjkyNzYxNiwxMzkzNzg1ODk1LD
-EyMDMyOTQwMTUsMTIxODA1NzQ4MSw2MDQ3OTE4MjEsLTE3ODI1
-MzIwMDddfQ==
+eyJoaXN0b3J5IjpbLTE0NjQ1MDQyODIsLTM3MTk0MzkwMCwtNT
+kwMDg4NzcyLDYyNTEwMTE3MCwtODk2MTQ1MTI4LC0xOTQ5MTkz
+NzgxLC0xMTYwNzA4NDc3LC0xNzQyOTI3NjE2LDEzOTM3ODU4OT
+UsMTIwMzI5NDAxNSwxMjE4MDU3NDgxLDYwNDc5MTgyMSwtMTc4
+MjUzMjAwN119
 -->
