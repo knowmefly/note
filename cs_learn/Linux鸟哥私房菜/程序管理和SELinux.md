@@ -51,10 +51,13 @@
 	- 查看SELinux状态
 - **setenforce**
 	- 修改状态 0宽容，1强制
--
+- **chcon**
+	- 修改SELinux下文件权限
+- **restorecon**
+	- 重新修改该目录下的文件权限
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg3MTk4MzY1LC01OTAwODg3NzIsNjI1MT
-AxMTcwLC04OTYxNDUxMjgsLTE5NDkxOTM3ODEsLTExNjA3MDg0
-NzcsLTE3NDI5Mjc2MTYsMTM5Mzc4NTg5NSwxMjAzMjk0MDE1LD
-EyMTgwNTc0ODEsNjA0NzkxODIxLC0xNzgyNTMyMDA3XX0=
+eyJoaXN0b3J5IjpbLTM3MTk0MzkwMCwtNTkwMDg4NzcyLDYyNT
+EwMTE3MCwtODk2MTQ1MTI4LC0xOTQ5MTkzNzgxLC0xMTYwNzA4
+NDc3LC0xNzQyOTI3NjE2LDEzOTM3ODU4OTUsMTIwMzI5NDAxNS
+wxMjE4MDU3NDgxLDYwNDc5MTgyMSwtMTc4MjUzMjAwN119
 -->
