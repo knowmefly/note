@@ -46,10 +46,13 @@
 	- 强制访问控制
 - **getenforce**
 	- 查看是否开启SELinux
-	- 
+	- vim  /etc/selinux/config 开启
+- **sestatus**
+	- 查看SELinux状态
+- **setenforce
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI1MTAxMTcwLC04OTYxNDUxMjgsLTE5ND
-kxOTM3ODEsLTExNjA3MDg0NzcsLTE3NDI5Mjc2MTYsMTM5Mzc4
-NTg5NSwxMjAzMjk0MDE1LDEyMTgwNTc0ODEsNjA0NzkxODIxLC
-0xNzgyNTMyMDA3XX0=
+eyJoaXN0b3J5IjpbLTEzOTgwMDExODgsNjI1MTAxMTcwLC04OT
+YxNDUxMjgsLTE5NDkxOTM3ODEsLTExNjA3MDg0NzcsLTE3NDI5
+Mjc2MTYsMTM5Mzc4NTg5NSwxMjAzMjk0MDE1LDEyMTgwNTc0OD
+EsNjA0NzkxODIxLC0xNzgyNTMyMDA3XX0=
 -->
