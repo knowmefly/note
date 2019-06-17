@@ -19,6 +19,11 @@
 
 ## 静态库动态库
 - **静态库**
+	- .a结尾
+	- 直接编译进程序
+	- 独立执行
+	- 升级简单
+	- 升级时需要重新编译
 ## 源码安装步骤
 1. 下载解压
 2. ./configure --help|more 获取帮助信息
@@ -27,7 +32,7 @@
 5. make check：编译检测
 6. make install：安装编译好二进制程序
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODExMTM4MjUsLTUxOTIyMTA0MiwyMD
-UxMTE2ODAxLDIxMDY4Njc3NDAsODc5Nzg4MzgzLC0xNzA3NzUx
-NTAsLTIwMjE5NDgzNThdfQ==
+eyJoaXN0b3J5IjpbLTE0MDQ2ODE4MywtNTE5MjIxMDQyLDIwNT
+ExMTY4MDEsMjEwNjg2Nzc0MCw4Nzk3ODgzODMsLTE3MDc3NTE1
+MCwtMjAyMTk0ODM1OF19
 -->
