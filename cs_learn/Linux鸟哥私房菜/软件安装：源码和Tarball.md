@@ -34,6 +34,9 @@
 	- 【p】：加载到内存的函数库
 - **ldd**
 	- 程序含有的动态函数库
+	- 【v】：其他版本信息
+
+## 检验软件zhengq
 ## 源码安装步骤
 1. 下载解压
 2. ./configure --help|more 获取帮助信息
@@ -42,7 +45,7 @@
 5. make check：编译检测
 6. make install：安装编译好二进制程序
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI2NzIwODg4LC01NDk5ODI5MiwtNTE5Mj
-IxMDQyLDIwNTExMTY4MDEsMjEwNjg2Nzc0MCw4Nzk3ODgzODMs
-LTE3MDc3NTE1MCwtMjAyMTk0ODM1OF19
+eyJoaXN0b3J5IjpbMTQ4MzY5MDAxNiwtNTQ5OTgyOTIsLTUxOT
+IyMTA0MiwyMDUxMTE2ODAxLDIxMDY4Njc3NDAsODc5Nzg4Mzgz
+LC0xNzA3NzUxNTAsLTIwMjE5NDgzNThdfQ==
 -->
