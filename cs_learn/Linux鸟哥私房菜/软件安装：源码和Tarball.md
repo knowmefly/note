@@ -16,9 +16,10 @@
 1. 下载解压
 2. ./configure --help|more 获取帮助信息
 3. ./configure --  命令行参数
-4. make clean；make
-5. make c
+4. make clean；make ：清除环境重新编译
+5. make check：编译检测
+6. make install：安装编译好二进制程序
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MDM4NjY3NSwyMTA2ODY3NzQwLDg3OT
+eyJoaXN0b3J5IjpbMjA1MTExNjgwMSwyMTA2ODY3NzQwLDg3OT
 c4ODM4MywtMTcwNzc1MTUwLC0yMDIxOTQ4MzU4XX0=
 -->
