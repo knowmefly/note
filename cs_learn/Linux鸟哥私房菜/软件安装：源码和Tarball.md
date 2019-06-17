@@ -21,9 +21,15 @@
 - **静态库**
 	- .a结尾
 	- 直接编译进程序
+	- 编译后文件较大
 	- 独立执行
-	- 升级简单
+	- 升级复杂
 	- 升级时需要重新编译
+- **动态函数库**
+	- .so结尾
+	- 编译时只是一个指向
+	- 不能独立执行
+	- 升级简单
 ## 源码安装步骤
 1. 下载解压
 2. ./configure --help|more 获取帮助信息
@@ -32,7 +38,7 @@
 5. make check：编译检测
 6. make install：安装编译好二进制程序
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDQ2ODE4MywtNTE5MjIxMDQyLDIwNT
-ExMTY4MDEsMjEwNjg2Nzc0MCw4Nzk3ODgzODMsLTE3MDc3NTE1
-MCwtMjAyMTk0ODM1OF19
+eyJoaXN0b3J5IjpbLTU0OTk4MjkyLC01MTkyMjEwNDIsMjA1MT
+ExNjgwMSwyMTA2ODY3NzQwLDg3OTc4ODM4MywtMTcwNzc1MTUw
+LC0yMDIxOTQ4MzU4XX0=
 -->
