@@ -2,7 +2,7 @@
 	- 新建Makefile文件
 - **make**
 	- 根据Makefile文件进行源码编译
-	- 只针对别
+	- 只针对别编辑的文件进行编译
 - **gcc**
 	- 【-c】 输出*.o文件 （编译单个文件）
 	- 【-o】*.o输出二进制文件（将多个.o文件链接起来生成二进制文件）
@@ -13,6 +13,6 @@
 	- 【-Wall】：严谨编译输出警告信息
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMTMzMDM1NCw4Nzk3ODgzODMsLTE3MD
+eyJoaXN0b3J5IjpbMjEwNjg2Nzc0MCw4Nzk3ODgzODMsLTE3MD
 c3NTE1MCwtMjAyMTk0ODM1OF19
 -->
