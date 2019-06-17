@@ -8,7 +8,10 @@
 	- 单个目标文件、链接、编译
 	- 编译从文件
 	- 【-lm】：导入函数库
+	- 【-O】：编译优化
+	- 【-Wall】：严谨编译输出警告信息
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MTk4MzA2LDg3OTc4ODM4MywtMTcwNz
-c1MTUwLC0yMDIxOTQ4MzU4XX0=
+eyJoaXN0b3J5IjpbOTIxNTQ1MDEsODc5Nzg4MzgzLC0xNzA3Nz
+UxNTAsLTIwMjE5NDgzNThdfQ==
 -->
