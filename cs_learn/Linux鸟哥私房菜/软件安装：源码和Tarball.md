@@ -12,6 +12,8 @@
 	- 【-O】：编译优化
 	- 【-Wall】：严谨编译输出警告信息
 
+- **patch**
+	- 更新源码：
 ## 源码安装步骤
 1. 下载解压
 2. ./configure --help|more 获取帮助信息
@@ -20,6 +22,7 @@
 5. make check：编译检测
 6. make install：安装编译好二进制程序
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MTExNjgwMSwyMTA2ODY3NzQwLDg3OT
-c4ODM4MywtMTcwNzc1MTUwLC0yMDIxOTQ4MzU4XX0=
+eyJoaXN0b3J5IjpbLTUxOTIyMTA0MiwyMDUxMTE2ODAxLDIxMD
+Y4Njc3NDAsODc5Nzg4MzgzLC0xNzA3NzUxNTAsLTIwMjE5NDgz
+NThdfQ==
 -->
