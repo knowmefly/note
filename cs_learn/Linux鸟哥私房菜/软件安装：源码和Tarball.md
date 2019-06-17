@@ -7,7 +7,8 @@
 	- 【-o】*.o输出二进制文件（将多个.o文件链接起来生成二进制文件）
 	- 单个目标文件、链接、编译
 	- 编译从文件
+	- 【-lm】：导入函数库
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc5Nzg4MzgzLC0xNzA3NzUxNTAsLTIwMj
-E5NDgzNThdfQ==
+eyJoaXN0b3J5IjpbMTI1MTk4MzA2LDg3OTc4ODM4MywtMTcwNz
+c1MTUwLC0yMDIxOTQ4MzU4XX0=
 -->
