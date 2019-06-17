@@ -12,7 +12,13 @@
 	- 【-O】：编译优化
 	- 【-Wall】：严谨编译输出警告信息
 
+## 源码安装步骤
+1. 下载解压
+2. ./configure --help|more 获取帮助信息
+3. ./configure --  命令行参数
+4. make clean；make
+5. make c
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNjg2Nzc0MCw4Nzk3ODgzODMsLTE3MD
-c3NTE1MCwtMjAyMTk0ODM1OF19
+eyJoaXN0b3J5IjpbLTg1MDM4NjY3NSwyMTA2ODY3NzQwLDg3OT
+c4ODM4MywtMTcwNzc1MTUwLC0yMDIxOTQ4MzU4XX0=
 -->
