@@ -13,9 +13,8 @@
 
 
 
-rp-pppoe -        3.11   -            5            .el7.x86_64  .rpm
-软件名称      软件的版本  发布次数 shihe的硬體平台 副檔名
+rp-pppoe -        3.11   -            5            .el7.x86_64        .rpm
+软件名称      软件的版本  发布次数    适合的硬件平台  扩展名
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzgyMDQ1OTgsLTIwODg3NDY2MTJdfQ
-==
+eyJoaXN0b3J5IjpbMjAwMTA5MTMxMCwtMjA4ODc0NjYxMl19
 -->
