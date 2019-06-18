@@ -7,6 +7,7 @@
 	- Fedora、CentOS、SuSe
 	- YUM在线升级
 	- 必须相同Linux环境
+	- 可以跟一些特殊参数 ：执意自行时
 - **SRPM**
 	- 源码编译机制
 	- Source RPM
@@ -17,6 +18,6 @@
 rp-pppoe -        3.11   -            5            .el7.x86_64        .rpm
 软件名称      软件的版本  发布次数    适合的硬件平台  扩展名
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NzAwODI5OSwyMDAxMDkxMzEwLC0yMD
-g4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbNzQ2NjgxNzA1LC00NjcwMDgyOTksMjAwMT
+A5MTMxMCwtMjA4ODc0NjYxMl19
 -->
