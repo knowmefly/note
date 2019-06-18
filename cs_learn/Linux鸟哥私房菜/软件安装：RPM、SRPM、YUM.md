@@ -1,3 +1,4 @@
+## dkpg
 - **dkpg**
 	- Debian提供的软件：B2D、ubuntu
 	- APT在线升级
@@ -36,8 +37,8 @@
 rp-pppoe -        3.11   -            5            .el7.x86_64        .rpm
 软件名称      软件的版本  发布次数    适合的硬件平台  扩展名
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNzg5MjkyOSw1MDkzOTU5MzcsNDc3Nj
-QzNTc2LDIxMzA2NTY0MTQsMjMzNDU5NDE4LDM5OTY3MDcxMSwt
-MTI2NjIzOTI3LDc0NjY4MTcwNSwtNDY3MDA4Mjk5LDIwMDEwOT
-EzMTAsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbNzQ3MDE4NTE3LDEzMjc4OTI5MjksNTA5Mz
+k1OTM3LDQ3NzY0MzU3NiwyMTMwNjU2NDE0LDIzMzQ1OTQxOCwz
+OTk2NzA3MTEsLTEyNjYyMzkyNyw3NDY2ODE3MDUsLTQ2NzAwOD
+I5OSwyMDAxMDkxMzEwLC0yMDg4NzQ2NjEyXX0=
 -->
