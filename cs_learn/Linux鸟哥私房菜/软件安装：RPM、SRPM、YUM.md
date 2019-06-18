@@ -10,6 +10,12 @@
 	- 源码编译机制
 	- Source RPM
 	- 可以自定义参数
+
+
+
+rp-pppoe -        3.11   -            5            .el7.x86_64  .rpm
+软件名称      软件的版本  发布次数 shihe的硬體平台 副檔名
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMDIwNDAyMywtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTE4NzgyMDQ1OTgsLTIwODg3NDY2MTJdfQ
+==
 -->
