@@ -13,17 +13,19 @@
 	- 【-qR】：列出软件相关依赖
 	- 【-qf】：找出文件是由哪个软件提供的
 	- 【-Va】：查找可能被修改的文件
+	- 【--rebuilddb】：重建数据库
 - **SRPM**
 	- 源码编译机制
 	- Source RPM
 	- 可以自定义参数
+	- rebuild：编译不安装
 
 
 
 rp-pppoe -        3.11   -            5            .el7.x86_64        .rpm
 软件名称      软件的版本  发布次数    适合的硬件平台  扩展名
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk5NjcwNzExLC0xMjY2MjM5MjcsNzQ2Nj
-gxNzA1LC00NjcwMDgyOTksMjAwMTA5MTMxMCwtMjA4ODc0NjYx
-Ml19
+eyJoaXN0b3J5IjpbMzIzODIzODgsMzk5NjcwNzExLC0xMjY2Mj
+M5MjcsNzQ2NjgxNzA1LC00NjcwMDgyOTksMjAwMTA5MTMxMCwt
+MjA4ODc0NjYxMl19
 -->
