@@ -24,6 +24,7 @@
 
 ## yum
 - **yum**
+	- /etc/yum.repos.d/CentOS-Base.repo：容器
 	- 【search】：查找软件
 	- 【info】：输出软件介绍
 	- 【list】：服务器提供软件名称
@@ -34,7 +35,8 @@
 rp-pppoe -        3.11   -            5            .el7.x86_64        .rpm
 软件名称      软件的版本  发布次数    适合的硬件平台  扩展名
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc3NjQzNTc2LDIxMzA2NTY0MTQsMjMzND
-U5NDE4LDM5OTY3MDcxMSwtMTI2NjIzOTI3LDc0NjY4MTcwNSwt
-NDY3MDA4Mjk5LDIwMDEwOTEzMTAsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTE2NzQ0Nzc5MDMsNDc3NjQzNTc2LDIxMz
+A2NTY0MTQsMjMzNDU5NDE4LDM5OTY3MDcxMSwtMTI2NjIzOTI3
+LDc0NjY4MTcwNSwtNDY3MDA4Mjk5LDIwMDEwOTEzMTAsLTIwOD
+g3NDY2MTJdfQ==
 -->
