@@ -5,7 +5,11 @@
 	- Red Hat提供
 	- Fedora、CentOS、SuSe
 	- YUM在线升级
-- **SR
+	- 必须相同Linux环境
+- **SRPM**
+	- 源码编译机制
+	- Source RPM
+	- 可以自定义参数
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MzA0Njc5MSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTMwMDIwNDAyMywtMjA4ODc0NjYxMl19
 -->
