@@ -23,14 +23,16 @@
 	- *.spec：包含大多数信息
 
 ## yum
-
+- **yum**
+	- search：查找软件
+	- info
 
 
 
 rp-pppoe -        3.11   -            5            .el7.x86_64        .rpm
 软件名称      软件的版本  发布次数    适合的硬件平台  扩展名
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjc2ODE1MiwyMTMwNjU2NDE0LDIzMz
+eyJoaXN0b3J5IjpbLTQ5MzE2MTY4NiwyMTMwNjU2NDE0LDIzMz
 Q1OTQxOCwzOTk2NzA3MTEsLTEyNjYyMzkyNyw3NDY2ODE3MDUs
 LTQ2NzAwODI5OSwyMDAxMDkxMzEwLC0yMDg4NzQ2NjEyXX0=
 -->
