@@ -5,6 +5,7 @@
 	- Red Hat提供
 	- Fedora、CentOS、SuSe
 	- YUM在线升级
+- **SR
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MTkwNTcyNSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTY1MzA0Njc5MSwtMjA4ODc0NjYxMl19
 -->
