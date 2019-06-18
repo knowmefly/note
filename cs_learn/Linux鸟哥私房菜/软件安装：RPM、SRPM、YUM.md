@@ -19,13 +19,14 @@
 	- Source RPM
 	- 可以自定义参数
 	- rebuild：编译不安装
+	- recompile：编译后安装
 
 
 
 rp-pppoe -        3.11   -            5            .el7.x86_64        .rpm
 软件名称      软件的版本  发布次数    适合的硬件平台  扩展名
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIzODIzODgsMzk5NjcwNzExLC0xMjY2Mj
-M5MjcsNzQ2NjgxNzA1LC00NjcwMDgyOTksMjAwMTA5MTMxMCwt
-MjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMjMzNDU5NDE4LDM5OTY3MDcxMSwtMTI2Nj
+IzOTI3LDc0NjY4MTcwNSwtNDY3MDA4Mjk5LDIwMDEwOTEzMTAs
+LTIwODg3NDY2MTJdfQ==
 -->
