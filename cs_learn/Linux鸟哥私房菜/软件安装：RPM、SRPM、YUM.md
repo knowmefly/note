@@ -12,7 +12,7 @@
 	- 【-qi】：给出软件相关说明
 	- 【-qR】：列出软件相关依赖
 	- 【-qf】：找出文件是由哪个软件提供的
-	- 【-】
+	- 【-Va】：查找可能被修改的文件
 - **SRPM**
 	- 源码编译机制
 	- Source RPM
@@ -23,7 +23,7 @@
 rp-pppoe -        3.11   -            5            .el7.x86_64        .rpm
 软件名称      软件的版本  发布次数    适合的硬件平台  扩展名
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MTQ2Mzk5NiwtMTI2NjIzOTI3LDc0Nj
-Y4MTcwNSwtNDY3MDA4Mjk5LDIwMDEwOTEzMTAsLTIwODg3NDY2
-MTJdfQ==
+eyJoaXN0b3J5IjpbMzk5NjcwNzExLC0xMjY2MjM5MjcsNzQ2Nj
+gxNzA1LC00NjcwMDgyOTksMjAwMTA5MTMxMCwtMjA4ODc0NjYx
+Ml19
 -->
