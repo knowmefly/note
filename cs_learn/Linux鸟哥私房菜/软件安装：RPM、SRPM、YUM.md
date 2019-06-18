@@ -21,14 +21,16 @@
 	- rebuild：编译不安装
 	- recompile：编译后安装
 	- *.spec：包含大多数信息
-	- 
+
+## yum
+
 
 
 
 rp-pppoe -        3.11   -            5            .el7.x86_64        .rpm
 软件名称      软件的版本  发布次数    适合的硬件平台  扩展名
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMDY1NjQxNCwyMzM0NTk0MTgsMzk5Nj
-cwNzExLC0xMjY2MjM5MjcsNzQ2NjgxNzA1LC00NjcwMDgyOTks
-MjAwMTA5MTMxMCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTIwNjc2ODE1MiwyMTMwNjU2NDE0LDIzMz
+Q1OTQxOCwzOTk2NzA3MTEsLTEyNjYyMzkyNyw3NDY2ODE3MDUs
+LTQ2NzAwODI5OSwyMDAxMDkxMzEwLC0yMDg4NzQ2NjEyXX0=
 -->
