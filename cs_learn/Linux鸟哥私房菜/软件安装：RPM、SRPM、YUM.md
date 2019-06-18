@@ -27,14 +27,14 @@
 	- 【search】：查找软件
 	- 【info】：输出软件介绍
 	- 【list】：服务器提供软件名称
-	- 【list update】：列出本地可更新软件
+	- 【list updates】：列出本地可更新软件
 
 
 
 rp-pppoe -        3.11   -            5            .el7.x86_64        .rpm
 软件名称      软件的版本  发布次数    适合的硬件平台  扩展名
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxOTA1NTE4NSwyMTMwNjU2NDE0LDIzMz
-Q1OTQxOCwzOTk2NzA3MTEsLTEyNjYyMzkyNyw3NDY2ODE3MDUs
-LTQ2NzAwODI5OSwyMDAxMDkxMzEwLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbNDc3NjQzNTc2LDIxMzA2NTY0MTQsMjMzND
+U5NDE4LDM5OTY3MDcxMSwtMTI2NjIzOTI3LDc0NjY4MTcwNSwt
+NDY3MDA4Mjk5LDIwMDEwOTEzMTAsLTIwODg3NDY2MTJdfQ==
 -->
