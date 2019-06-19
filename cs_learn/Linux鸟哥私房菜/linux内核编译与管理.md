@@ -10,8 +10,15 @@
 	- 传统编辑模式，一条条设置
 - **make oldconfig**
 	- 从默认配置选择新的配置
-d
+- ** make vmlinux**
+	- 编译未压缩的内核
+- **make modules**
+	- 仅内核模块
+- **make bzImage**
+	- 编译压缩的内核
+- **make all**
+	- 编译所有
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUyNjU4Mzg5LDIwNTc5NzA5MzksNTE2Mz
-U5NTgzLDc0ODA5NDE2OV19
+eyJoaXN0b3J5IjpbMTE0NzEwNTcsNjUyNjU4Mzg5LDIwNTc5Nz
+A5MzksNTE2MzU5NTgzLDc0ODA5NDE2OV19
 -->
