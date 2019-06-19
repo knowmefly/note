@@ -18,7 +18,14 @@
 	- 编译压缩的内核
 - **make all**
 	- 编译所有
+
+## 编译步骤
+1. 下载内核源码
+2. make menuc
+3. make clean
+4. make bzImage
+5. make modules
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NzEwNTcsNjUyNjU4Mzg5LDIwNTc5Nz
-A5MzksNTE2MzU5NTgzLDc0ODA5NDE2OV19
+eyJoaXN0b3J5IjpbLTE2NjM5MTA0NzUsNjUyNjU4Mzg5LDIwNT
+c5NzA5MzksNTE2MzU5NTgzLDc0ODA5NDE2OV19
 -->
