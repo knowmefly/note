@@ -10,8 +10,8 @@
 	- 传统编辑模式，一条条设置
 - **make oldconfig**
 	- 从默认配置选择新的配置
-
+d
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1Nzk3MDkzOSw1MTYzNTk1ODMsNzQ4MD
-k0MTY5XX0=
+eyJoaXN0b3J5IjpbNjUyNjU4Mzg5LDIwNTc5NzA5MzksNTE2Mz
+U5NTgzLDc0ODA5NDE2OV19
 -->
