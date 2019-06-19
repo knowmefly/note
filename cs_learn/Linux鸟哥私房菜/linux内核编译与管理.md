@@ -38,9 +38,15 @@
 
 编译单一模块
 1. 正常编译安装
-13. depmod -a ：添加
+2. depmod -a ：模块建立相关性
+ 
+编译
+ 1. 修改daf
+16. make fs/
+17. 
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NTQ4MjAzNywtMTQ1NTA5NDkwNyw2NT
-I2NTgzODksMjA1Nzk3MDkzOSw1MTYzNTk1ODMsNzQ4MDk0MTY5
-XX0=
+eyJoaXN0b3J5IjpbNDg5ODYxNTQwLC0xNDU1MDk0OTA3LDY1Mj
+Y1ODM4OSwyMDU3OTcwOTM5LDUxNjM1OTU4Myw3NDgwOTQxNjld
+fQ==
 -->
