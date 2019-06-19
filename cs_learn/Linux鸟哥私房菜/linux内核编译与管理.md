@@ -35,9 +35,12 @@
 10. .config 最好也复制过来
 11. mkinitrd -v /boot/initrd-*.img  *.【版本-名称】
 12. vim /boot/grub2/menu.lst ：添加开机启动选项
-13. d
+
+编译单一模块
+1. 正常编译安装
+13. depmod -a ：添加
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNDI0NzIwNCwtMTQ1NTA5NDkwNyw2NT
+eyJoaXN0b3J5IjpbMTM5NTQ4MjAzNywtMTQ1NTA5NDkwNyw2NT
 I2NTgzODksMjA1Nzk3MDkzOSw1MTYzNTk1ODMsNzQ4MDk0MTY5
 XX0=
 -->
