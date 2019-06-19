@@ -1,6 +1,9 @@
 ## kernel
 偶数稳定版
 奇数开发版
+
+安装kernel-devel软件
+
 - **make mrproper**
 	- 删除中间文件同时包括配置文件
 - **make menuconfig**
@@ -33,7 +36,7 @@
 11. mkinitrd -v /boot/initrd-*.img  *.【版本-名称】
 12. vim /boot/grub2/menu.lst ：添加开机启动选项
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTI1NjQ5NzksLTE0NTUwOTQ5MDcsNj
-UyNjU4Mzg5LDIwNTc5NzA5MzksNTE2MzU5NTgzLDc0ODA5NDE2
-OV19
+eyJoaXN0b3J5IjpbMjA0NjE1NDg2NiwtMTQ1NTA5NDkwNyw2NT
+I2NTgzODksMjA1Nzk3MDkzOSw1MTYzNTk1ODMsNzQ4MDk0MTY5
+XX0=
 -->
