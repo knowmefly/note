@@ -26,9 +26,10 @@
 4. make clean
 5. make bzImage
 6. make modules
-7. 
+7. ll /lib/modules/
+8. cp /usr/src/kernels/linux-*/arch/x86/boot/bzImage > /boot/vmlinuz */
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ1MTE5OTkyLC0xNDU1MDk0OTA3LDY1Mj
+eyJoaXN0b3J5IjpbMTI1MjI0NzgyLC0xNDU1MDk0OTA3LDY1Mj
 Y1ODM4OSwyMDU3OTcwOTM5LDUxNjM1OTU4Myw3NDgwOTQxNjld
 fQ==
 -->
