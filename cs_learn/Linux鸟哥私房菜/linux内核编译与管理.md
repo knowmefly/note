@@ -22,11 +22,11 @@
 ## 编译步骤
 1. 下载内核源码
 2. make menuconfig：挑选需要的配置
-3. 
+3. make mrporper
 4. make clean
 5. make bzImage
 6. make modules
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTExMTc5MDQsNjUyNjU4Mzg5LDIwNT
+eyJoaXN0b3J5IjpbLTE0NTUwOTQ5MDcsNjUyNjU4Mzg5LDIwNT
 c5NzA5MzksNTE2MzU5NTgzLDc0ODA5NDE2OV19
 -->
