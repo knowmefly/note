@@ -35,8 +35,9 @@
 10. .config 最好也复制过来
 11. mkinitrd -v /boot/initrd-*.img  *.【版本-名称】
 12. vim /boot/grub2/menu.lst ：添加开机启动选项
+13. d
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NjE1NDg2NiwtMTQ1NTA5NDkwNyw2NT
+eyJoaXN0b3J5IjpbMTgyNDI0NzIwNCwtMTQ1NTA5NDkwNyw2NT
 I2NTgzODksMjA1Nzk3MDkzOSw1MTYzNTk1ODMsNzQ4MDk0MTY5
 XX0=
 -->
