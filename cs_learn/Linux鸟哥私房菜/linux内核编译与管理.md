@@ -21,11 +21,12 @@
 
 ## 编译步骤
 1. 下载内核源码
-2. make menuc
-3. make clean
-4. make bzImage
-5. make modules
+2. make menuconfig：挑选需要的配置
+3. 
+4. make clean
+5. make bzImage
+6. make modules
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjM5MTA0NzUsNjUyNjU4Mzg5LDIwNT
+eyJoaXN0b3J5IjpbLTExMTExMTc5MDQsNjUyNjU4Mzg5LDIwNT
 c5NzA5MzksNTE2MzU5NTgzLDc0ODA5NDE2OV19
 -->
