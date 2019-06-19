@@ -37,7 +37,7 @@
 12. vim /boot/grub2/menu.lst ：添加开机启动选项
 
 编译单一模块
-13. 正常编译安装
+1. 正常编译安装
 2. depmod -a ：模块建立相关性
  
 编译内核模块
@@ -46,7 +46,7 @@
 16. depmod -a ：模块建立相关性
 17. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NzI4ODg1MywtMTQ1NTA5NDkwNyw2NT
+eyJoaXN0b3J5IjpbMTA5NDU1NTA0NiwtMTQ1NTA5NDkwNyw2NT
 I2NTgzODksMjA1Nzk3MDkzOSw1MTYzNTk1ODMsNzQ4MDk0MTY5
 XX0=
 -->
