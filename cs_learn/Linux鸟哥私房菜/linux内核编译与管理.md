@@ -26,7 +26,9 @@
 4. make clean
 5. make bzImage
 6. make modules
+7. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTUwOTQ5MDcsNjUyNjU4Mzg5LDIwNT
-c5NzA5MzksNTE2MzU5NTgzLDc0ODA5NDE2OV19
+eyJoaXN0b3J5IjpbNDQ1MTE5OTkyLC0xNDU1MDk0OTA3LDY1Mj
+Y1ODM4OSwyMDU3OTcwOTM5LDUxNjM1OTU4Myw3NDgwOTQxNjld
+fQ==
 -->
