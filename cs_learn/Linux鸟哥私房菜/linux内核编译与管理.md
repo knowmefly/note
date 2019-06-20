@@ -37,16 +37,17 @@
 12. vim /boot/grub2/menu.lst ：添加开机启动选项
 
 编译单一模块
-1. 正常编译安装
-2. depmod -a ：模块建立相关性
+13. 正常编译安装
+14. depmod -a ：模块建立相关性
  
 编译内核模块
  1. make menuconfig：修改配置菜单
 15. make fs/ntfs：编译单个模块
-16. depmod -a ：模块建立相关性
-17. 
+16. jiang
+17. depmod -a ：模块建立相关性
+18. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU3MjQyNjIsMTA5NDU1NTA0NiwtMTQ1NT
-A5NDkwNyw2NTI2NTgzODksMjA1Nzk3MDkzOSw1MTYzNTk1ODMs
-NzQ4MDk0MTY5XX0=
+eyJoaXN0b3J5IjpbLTE3NzUzNzQxNzIsMTA5NDU1NTA0NiwtMT
+Q1NTA5NDkwNyw2NTI2NTgzODksMjA1Nzk3MDkzOSw1MTYzNTk1
+ODMsNzQ4MDk0MTY5XX0=
 -->
