@@ -29,7 +29,7 @@
 4. make clean
 5. make bzImage
 6. make modules
-7. make modules_install :建立内核相关模块
+7. make modules_install :建立内核相关模块 	 	
 8. ll /lib/modules/
 9. cp /usr/src/kernels/linux-* /arch/x86/boot/bzImage > /boot/vmlinuz */
 10. .config 最好也复制过来
@@ -46,7 +46,7 @@
 16. depmod -a ：模块建立相关性
 17. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NDU1NTA0NiwtMTQ1NTA5NDkwNyw2NT
-I2NTgzODksMjA1Nzk3MDkzOSw1MTYzNTk1ODMsNzQ4MDk0MTY5
-XX0=
+eyJoaXN0b3J5IjpbMjU3MjQyNjIsMTA5NDU1NTA0NiwtMTQ1NT
+A5NDkwNyw2NTI2NTgzODksMjA1Nzk3MDkzOSw1MTYzNTk1ODMs
+NzQ4MDk0MTY5XX0=
 -->
