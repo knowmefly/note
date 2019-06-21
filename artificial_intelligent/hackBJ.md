@@ -10,7 +10,7 @@
 
 
 ## 人工智能相关行业
-- 制造业
+- 制造业 质检
 - 医院
 - 教育
 
@@ -23,8 +23,19 @@
 ## 边缘计算
 - 优势 
 	1. 更快的响应
-
+	2. 更合理化的组织结构
 - 国家电网
+
+
+## 解决行业问题、
+
+
+
+##
+- 华住相关应用 
+- 对话式技能
+- bot社交平台
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODU4MTE1NjcsMTI4OTkxOTgwXX0=
+eyJoaXN0b3J5IjpbLTIwODY4OTMzOSwtMTg4NTgxMTU2NywxMj
+g5OTE5ODBdfQ==
 -->
