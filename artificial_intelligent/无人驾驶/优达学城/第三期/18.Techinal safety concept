@@ -17,3 +17,6 @@ So the technical safety concept involves:
 
 - Turning functional safety requirements into technical safety requirements
 - Allocating technical safety requirements to the system architecture
+
+# Other Type of Technical Safely Requirement 
+### Faults External to the Lane Keeping Item
