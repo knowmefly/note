@@ -1,0 +1,2 @@
+# V model
+The general idea represented in each V stays the same; first, you specify safety requirements. Then you allocate these requirements to a system architecture. Finally you test, integrate, and verify. Each V model process is the same one we discussed back in the first lesson.
