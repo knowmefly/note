@@ -15,7 +15,7 @@ TCL（ tool confidence level ）对自己开发工具的信心。
 # Software Safety Requirements Derived from Technical Safety Requirement 01
 学习如何将技术要求转化为软件要求，并通过一定方法实现软件要求，从而解决技术要求。
 
-# Freedom from Interference - Spatial
+# Freedom from Interference - Spatial(空间)
 
 There are a few common mechanisms for ensuring freedom from spatial interference like memory protection units and dual storage of relevant data.
 
@@ -28,3 +28,12 @@ Other mechanisms to protect against memory interference include:
 - Redundancy checks such as CRC to make sure data does not inadvertently change.
 - Micro-controllers with memory error detection and correction capabilities
 - Operating systems that allow software units to have their own virtual memory space
+
+# Freedom from Interference - Temporal（时间）
+Solving Deadlocks
+There are various algorithms for avoiding deadlocks including a measure called disabling interrupts. When interrupts are enabled, one process can interrupt another process. So in our example, thread one needs resource B and is trying to grab A. But thread two keeps interrupting thread one to grab A back. Disabling interrupts would allow thread one to grab A.
+
+Mechanisms for Freedom from Temporal Interference
+Mechanisms to avoid temporal interference include cyclic execution scheduling, fixed priority based scheduling, time triggered scheduling, monitoring of processor execution time, program sequence monitoring, and arrival rate monitoring.
+
+# 
