@@ -1,2 +1,30 @@
 # V model
 The general idea represented in each V stays the same; first, you specify safety requirements. Then you allocate these requirements to a system architecture. Finally you test, integrate, and verify. Each V model process is the same one we discussed back in the first lesson.
+
+软件相对于硬件多了一个单元测试，并且一个完整的系统是由许多子系统共同组成
+
+# Software Tools & Software Tool Confidence Level
+Evaluating confidence levels takes into account two things:
+
+Tool Impact (TI) - Whether the tool itself could malfunction and violate a safety goal
+Tool Error Detection Capability (TD) - If the tool malfunctions, is the malfunction detected or stopped
+
+语言没有限制，学会用多种开发软件协助开发。
+TCL（ tool confidence level ）对自己开发工具的信心。
+
+# Software Safety Requirements Derived from Technical Safety Requirement 01
+学习如何将技术要求转化为软件要求，并通过一定方法实现软件要求，从而解决技术要求。
+
+# Freedom from Interference - Spatial
+
+There are a few common mechanisms for ensuring freedom from spatial interference like memory protection units and dual storage of relevant data.
+
+MPU is a prevention method because it stops elements from accessing memory to which they should not have access. An MPU can be programmed to set up the proper read, write and execute permissions between software elements.
+
+Dual storage of relevant data like with a 2's complement is a detection method. With a 2's complement, you can detect that the data has changed and is no longer valid. But you can no longer use the data.
+
+Other mechanisms to protect against memory interference include:
+
+- Redundancy checks such as CRC to make sure data does not inadvertently change.
+- Micro-controllers with memory error detection and correction capabilities
+- Operating systems that allow software units to have their own virtual memory space
