@@ -1,1 +1,7 @@
+# Perception Subsystem Components
+It is more accurate to depict a connection of the camera to free space detection, as in the following figure.
+
+# Planning Subsystem Components
+The major components of the planning subsystem components are route planning, prediction, behavioral planning, and path planning.
+
 # 
