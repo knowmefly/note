@@ -33,6 +33,7 @@
 - ==/turtlesim== The node name associated with the turtlebot_sim node
 
 # Turtlesim Comms: List Topics
+~$ rostopic list
 - ==/rosout_agg== Aggregated feed of messages published to /rosout.
 - ==/turtle1/cmd_vel== Topic upon which velocity commands are sent/received. Publishing a velocity message to this topic will command turtle1 to move.
 - ==/turtle1/color_sensor== Each turtle in turtlesim is equipped with a color sensor, and readings from the sensor are published to this topic.
