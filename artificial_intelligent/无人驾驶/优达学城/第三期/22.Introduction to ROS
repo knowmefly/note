@@ -27,7 +27,7 @@
 5. Echoing messages in real-time
 
 #### We can see that there are three active nodes that have been registered with the ROS Master, /rosout, /teleop_turtle, and /turtlesim.
-
+~$ rosnode list.
 - ==/rosout== This node is launched by roscore. It subscribes to the standard /rosout topic, the topic to which all nodes send log messages.
 - ==/teleop_turtle== This is our keyboard teleop node. Notice that it’s not named turtle_teleop_key. There’s no requirement that a node’s broadcasted name is the same as the name of it’s associated executable.
 - ==/turtlesim== The node name associated with the turtlebot_sim node
