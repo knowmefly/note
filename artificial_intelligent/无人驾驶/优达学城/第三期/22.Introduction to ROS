@@ -11,3 +11,10 @@
 6. Click the folder icon on the right and navigate to your unzipped image (the .ovf file).
 7. Follow the prompts to import the image.
 8. From the VirtualBox Manager, select your VM and press start.
+
+下载ORS：http://wiki.ros.org/
+
+# Source the ROS Environment
+
+区分 ==source== 与 ==./==
+# Turtlesim Comms: List Nodes
