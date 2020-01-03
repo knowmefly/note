@@ -2,3 +2,12 @@
 一个简单的ROS绘图tool
 
 # Your Virtual Machine
+#### Import your VM image to VirtualBox
+1. Download and install VirtualBox.
+2. Download the image from supplied link.
+3. Unzip the image.
+4. Open VirtualBox Application.
+5. Click File > Import Appliance..
+6. Click the folder icon on the right and navigate to your unzipped image (the .ovf file).
+7. Follow the prompts to import the image.
+8. From the VirtualBox Manager, select your VM and press start.
