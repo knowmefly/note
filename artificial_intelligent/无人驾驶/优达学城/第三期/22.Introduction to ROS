@@ -27,7 +27,7 @@
 5. Echoing messages in real-time
 
 #### We can see that there are three active nodes that have been registered with the ROS Master, /rosout, /teleop_turtle, and /turtlesim.
-~$ rosnode list.
+~$ rosnode list
 - ==/rosout== This node is launched by roscore. It subscribes to the standard /rosout topic, the topic to which all nodes send log messages.
 - ==/teleop_turtle== This is our keyboard teleop node. Notice that it’s not named turtle_teleop_key. There’s no requirement that a node’s broadcasted name is the same as the name of it’s associated executable.
 - ==/turtlesim== The node name associated with the turtlebot_sim node
@@ -38,3 +38,12 @@
 - ==/turtle1/cmd_vel== Topic upon which velocity commands are sent/received. Publishing a velocity message to this topic will command turtle1 to move.
 - ==/turtle1/color_sensor== Each turtle in turtlesim is equipped with a color sensor, and readings from the sensor are published to this topic.
 - ==/turtle1/pose== The position and orientation of turtle1 are published to this topic.
+
+# Turtlesim Comms: Get Topic Info
+Get Information About a Specific Topic
+If we wish to get information about a specific topic, who is publishing to it, subscribed to it, or the type of message associated with it, we can use the command $==rostopic info==. Let’s check into the ==/turtle1/cmd_vel== topic
+
+As would be expected, there are two nodes registered on this topic. Our publisher, the t==eleop_turtle== node, and our subscriber, the ==turtlesim== node. Additionally, we can see that the type of message used on this topic is ==geometry_msgs/Twist.==
+
+# Turtlesim Comms: Message Information
+查看乌龟的位置
