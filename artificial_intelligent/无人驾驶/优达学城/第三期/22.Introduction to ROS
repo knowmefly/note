@@ -18,3 +18,10 @@
 
 区分 ==source== 与 ==./==
 # Turtlesim Comms: List Nodes
+#### in the following concepts, we will investigate Turtlesimm Comms, and will cover the following steps:
+
+1. Listing all active nodes
+2. Listing all topics
+3. Getting information about topics
+4. Showing message information
+5. Echoing messages in real-time
