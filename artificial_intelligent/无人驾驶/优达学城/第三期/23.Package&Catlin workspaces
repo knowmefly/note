@@ -1,1 +1,4 @@
-# 
+# Add a Package
+git clone
+catkin_make
+# Roslaunch
