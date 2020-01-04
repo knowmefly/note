@@ -1,1 +1,35 @@
-# 
+# Project Overview
+![程序框图](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1578130276279.png)
+
+==(path_to_project_repo)/ros/src/tl_detector/==
+交通信号灯检测
+![tl-detector node](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1578130482290.png)
+
+==(path_to_project_repo)/ros/src/twist_controller/==
+行驶控制系统
+drive-by-wire (dbw) system
+![DBW-system](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1578130719296.png)
+
+# Waypoint Updater Node (Partial)
+#### Waypoint Updater Node Overview
+The eventual purpose of this node is to publish a fixed number of waypoints ahead of the vehicle with the correct target velocities, depending on traffic lights and obstacles. The goal for the first version of the node should be simply to subscribe to the topics
+
+- /base_waypoints
+- /current_pose
+- 
+and publish a list of waypoints to
+
+- /final_waypoints
+#### Waypoint Message Descriptions
+This section will demonstrate use of rostopic and rosmsg to learn more about the messages being transmitted on /base_waypoints and /final_waypoints.
+
+#### Lane message example
+As a use-case example, given a single styx_msgs/Lane message my_lane_msg, you can access the x direction linear velocity of the first waypoint in Python with:
+
+my_lane_msg[0].twist.twist.linear.x
+
+Note that the coordinates for linear velocity are vehicle-centered, so only the x-direction linear velocity should be nonzero.
+
+#### Topics and message types
+For convenience, we have provided the following table with topic and message info for this step of the project:
+![topics and message types](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1578131911106.png)
