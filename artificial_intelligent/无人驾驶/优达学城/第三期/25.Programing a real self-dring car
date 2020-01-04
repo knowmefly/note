@@ -53,3 +53,21 @@ This file contains the TLClassifier class. You can use this class to implement t
 
 - traffic_light_config
 This config file contains information about the camera (such as focal length) and the 2D position of the traffic lights's stop line in world coordinates.
+
+
+# 26.Completing the program
+The following projects are required for graduation:
+- Finding Lane Lines on the Road
+- Traffic Sign Classifier
+- Behavioral Cloning
+- Advanced Lane Finding
+- Vehicle Detection and Tracking
+- Extended Kalman Filters
+- Unscented Kalman Filters
+- Kidnapped Vehicle
+- PID Controller
+- Model Predictive Control
+- Path Planning Project
+- Elective Project: Semantic Segmentation OR Functional Safety of a Lane Assistance System
+- A submission of the Programming a Real Self-Driving Car
+
