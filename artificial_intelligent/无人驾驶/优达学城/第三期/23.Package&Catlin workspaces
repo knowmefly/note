@@ -25,4 +25,10 @@ Other folders may include
 - meshes (CAD files in .dae (Collada) or .stl (STereoLithography) format)
 - worlds (XML like files that are used for Gazebo simulation environments)
 ![文档结构](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1578127633609.png)
-# 
+# ROS L2 Recap
+You now have some experience
+
+- Creating workspaces
+- Adding packages
+- Managing Dependencies
+- Troubleshooting build errors.
