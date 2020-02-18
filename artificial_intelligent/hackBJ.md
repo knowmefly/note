@@ -1,41 +1,8 @@
-## 赞助企业 
-- 华住
-	1. 代替客服
-	2. 用户推荐
-	3. 与客户的语音交互
-	4. 
- 	- 具体业务
-	 	1. 华掌柜
-	 	2. 生态闭环（唤醒、提供服务、） 
+---
+title: 实用技巧
+tags: code,AI,便捷
+renderNumberedHeading: true
+grammar_cjkRuby: true
+---
 
-
-## 人工智能相关行业
-- 制造业 质检
-- 医院
-- 教育
-
-## 产品方面应用
-- 更多的用户
-- 数据驱动
-- 搜索引擎  顾清
-- 同理心 想象力  中间是逻辑和工具  马如飞
-
-## 边缘计算
-- 优势 
-	1. 更快的响应
-	2. 更合理化的组织结构
-- 国家电网
-
-
-## 解决行业问题、
-
-
-
-##
-- 华住相关应用 
-- 对话式技能
-- bot社交平台
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODY4OTMzOSwtMTg4NTgxMTU2NywxMj
-g5OTE5ODBdfQ==
--->
+# 代码相关
