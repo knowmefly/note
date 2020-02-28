@@ -1,7 +1,6 @@
 ---
 title: Readme
 tags: 介绍
-renderNumberedHeading: true
 grammar_cjkRuby: true
 ---
 
