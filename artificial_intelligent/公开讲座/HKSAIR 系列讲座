@@ -54,7 +54,7 @@ grammar_cjkRuby: true
 - 介绍![介绍](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1591085497175.png)
 
 
-# 第三讲
+# 第三讲 香港金融业网络安全和个人隐私数据保护
 日期：05-26
 单位：香港中文大学
 ## 近两年资料外泄
@@ -68,7 +68,9 @@ grammar_cjkRuby: true
 - 欧盟与香港金融法规对比![对比](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1592296754662.png)
 - 定期评估确保网络安全![定期评估](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1592296806411.png)
 - 安全事件演练![安全演练](https://markdown.xiaoshujiang.com/img/spinner.gif "[[[1592296868855]]]" )
-# 第五讲 联邦智能的突围与应用之道
+
+
+# 第四讲 联邦智能的突围与应用之道
 日期：05-28
 ## 人工智能的数据困境
 
@@ -84,3 +86,5 @@ grammar_cjkRuby: true
 ![详细摘要](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1590984881632.png)
 ![联邦智能实现方式](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1590984967588.png)
 ![应用实例](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1590985191685.png)
+
+# 第五讲  
