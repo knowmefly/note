@@ -111,4 +111,8 @@ grammar_cjkRuby: true
 - 不同部门通信![解决方案](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1592991742006.png)
 	- TCP->RDMA![介绍](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1592991883882.png)
 	- 将GPU直接与RDMA网卡通信
-- 不同洲通信
+	- 现有参数聚合模型![介绍](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1592992094922.png)
+	- 动态参数聚合模型![介绍](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1592992191798.png)
+- 不同洲通信![解决方案](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1592992220606.png)
+	- 对训练过程进行分析（模型训练可以容忍15%的丢包率）![介绍](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1592992326348.png)
+	- MLT（机器学习专用网络传输协议）![介绍](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1592992440427.png)
