@@ -95,6 +95,17 @@ grammar_cjkRuby: true
 ## 数据孤岛问题
 各地区相关法案的相继提出
 
-## 相关技术
+## 运算方面
 - 同态加密![介绍](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1592989880965.png)
 	- 数据运算与传输由于同态加密会更加复杂
+
+- 可行性分析![分析](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1592990420652.png)
+- 三大挑战
+	- 需要做2048-bit的大整数运算（基于分治思想做元素并行）
+	- 涉及大量幂模运算（平方乘算法、蒙哥马利算法）![介绍](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1592990826446.png)
+	- 需要缓存大量中间结果（中国剩余定理减少中间结果）![介绍](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1592991019027.png)
+
+- 加速结果展示![结果展示](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1592991594152.png)
+
+## 传输方面
+- 
