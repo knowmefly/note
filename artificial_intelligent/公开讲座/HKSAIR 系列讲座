@@ -108,4 +108,7 @@ grammar_cjkRuby: true
 - 加速结果展示![结果展示](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1592991594152.png)
 
 ## 传输方面
-- 
+- 不同部门通信![解决方案](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1592991742006.png)
+	- TCP->RDMA![介绍](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1592991883882.png)
+	- 将GPU直接与RDMA网卡通信
+- 不同洲通信
