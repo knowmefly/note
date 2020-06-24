@@ -40,7 +40,7 @@ grammar_cjkRuby: true
 ## 联邦学习介绍
 - 联邦学习分类![分类介绍](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1591082994797.png)
 - 横向梯度下降实例![介绍](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1591083584167.png)
-- 同态加密加密W![介绍](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1591083756756.png)
+- 同态加密加密![介绍](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1591083756756.png)
 - 纵向联邦学习![介绍](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1591083965607.png)
 - 纵向学习（线性回归实实例）![示例](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1591084204348.png)
 - 纵向学习（联邦随机森林）![示例](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1591084473289.png)
@@ -72,6 +72,7 @@ grammar_cjkRuby: true
 
 # 第四讲 联邦智能的突围与应用之道
 日期：05-28
+单位：平安科技
 ## 人工智能的数据困境
 
 ## 解决方法：联邦智能重塑数据生态
@@ -87,4 +88,4 @@ grammar_cjkRuby: true
 ![联邦智能实现方式](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1590984967588.png)
 ![应用实例](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1590985191685.png)
 
-# 第五讲  
+# 第五讲  GPU在联邦学习中的探索
