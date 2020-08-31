@@ -116,3 +116,22 @@ grammar_cjkRuby: true
 - 不同洲通信![解决方案](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1592992220606.png)
 	- 对训练过程进行分析（模型训练可以容忍15%的丢包率）![介绍](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1592992326348.png)
 	- MLT（机器学习专用网络传输协议）![介绍](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1592992440427.png)
+
+# 第六讲 区块链上隐私保护的挑战和应对
+日期：06-09
+单位：微众银行
+
+## 区块链介绍
+- 简介![简介](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1598841771527.png)
+- 基本特征![基本特征](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1598841903376.png)
+- 区块链的隐私挑战![介绍](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1598842098127.png)
+
+## 分布式商业
+- 介绍![介绍](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1598842286365.png)
+- 联盟风控![介绍](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1598842490887.png)
+	- 不同机构采用不同的评判规则
+	- 不可直接向其他联盟成员传递实际一手数据
+- 联合征信![介绍](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1598842517807.png)
+- 资产流转![介绍](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1598842632118.png)
+- 常用隐私保护策略![介绍](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1598842803923.png)
+- 多个维度隐私保护![介绍](https://markdown.xiaoshujiang.com/img/spinner.gif "[[[1598842945940]]]" )
