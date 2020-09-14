@@ -1,5 +1,5 @@
 ---
-title: HKSAIR 系列讲座 
+title: HKSAIR 系列讲座
 tags: AI研习社 讲座 金融
 renderNumberedHeading: true
 grammar_cjkRuby: true
@@ -133,5 +133,27 @@ grammar_cjkRuby: true
 	- 不可直接向其他联盟成员传递实际一手数据
 - 联合征信![介绍](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1598842517807.png)
 - 资产流转![介绍](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1598842632118.png)
+
+## 隐私保护
 - 常用隐私保护策略![介绍](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1598842803923.png)
-- 多个维度隐私保护![介绍](https://markdown.xiaoshujiang.com/img/spinner.gif "[[[1598842945940]]]" )
+- 多个维度隐私保护![介绍](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1598842945939.png)
+- 体系总览![介绍](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1598843048951.png)
+- 网络隔离![介绍](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1598843153454.png)
+- 分层分组隔离![介绍](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1598843209268.png)
+- 角色分离![介绍](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1598843269385.png)
+- 数据隔离![介绍](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1598843317299.png)
+- 交易隔离![介绍](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1598843419858.png)
+- 多方协作![介绍](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1598843471363.png)
+	- DID分布式标识协议![介绍](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1598843714584.png)
+	- 选择性披露实例![介绍](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1598845961439.png)
+	- 企业联邦学习![介绍](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1598846036564.png)
+
+## 密码学
+- 相关介绍![简介](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1598846130984.png)
+- 身份隐匿实例![介绍](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1598846225423.png)
+- 隐匿支付![介绍](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1598846318225.png)
+- 匿名竞拍![介绍](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1598846348739.png)
+- 隐私保护理念![介绍](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1598846461634.png)
+
+## 总结
+![总结](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1598846546843.png)
