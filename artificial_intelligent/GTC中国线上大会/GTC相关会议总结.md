@@ -181,3 +181,4 @@ grammar_cjkRuby: true
 3. 行为决策控制
 4. 辅助模块
 5. 开发模式
+![开发模式](https://markdown.xiaoshujiang.com/img/spinner.gif "[[[1609941771700]]]" )
