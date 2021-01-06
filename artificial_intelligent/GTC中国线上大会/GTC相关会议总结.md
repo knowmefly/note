@@ -155,3 +155,5 @@ grammar_cjkRuby: true
 3. 优势
 	- 车辆物理平台
 	- 车辆E/E平台
+	- 场景布局
+4. 
