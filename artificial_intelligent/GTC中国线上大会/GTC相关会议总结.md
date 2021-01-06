@@ -152,3 +152,5 @@ grammar_cjkRuby: true
 	- 平台化
 	- 联盟化
 	- 生态化
+3. 优势
+	- 
