@@ -180,7 +180,8 @@ grammar_cjkRuby: true
 2. 定位（5G、智能道路支持）
 3. 行为决策控制
 4. 辅助模块
-5. 开发模式
-![开发模式](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1609941771699.png)
-6. 产业协助
-![产业协作](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1609942022106.png)
+5. 开发模式![开发模式](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1609941771699.png)
+6. 产业协助![产业协作](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1609942022106.png)
+7. 生态系统![生态系统](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1609942385686.png)
+8. 软件架构![软件架构](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1609942434437.png)
+9. 测试能力![测试能力](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1609942458143.png)
