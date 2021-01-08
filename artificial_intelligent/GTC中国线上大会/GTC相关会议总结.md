@@ -185,3 +185,7 @@ grammar_cjkRuby: true
 7. 生态系统![生态系统](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1609942385686.png)
 8. 软件架构![软件架构](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1609942434437.png)
 9. 测试能力![测试能力](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1609942458143.png)
+
+## 从概念到应用：构建人工智能驱动的自动驾驶系统
+时间：12-17
+单位：MathWorks
