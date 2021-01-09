@@ -239,7 +239,7 @@ RoadRunner:场景装配
 1. 长尾的末端（未知不安全场景）
 ### 仿真优先无人驾驶开发策略
 1. NVIDIA DRIVE SIM
-2. software in the loop （SIL）
-3. hardware in the loop（HLI）
+2. software in the loop （SIL）逼真度低，速度快
+3. hardware in the loop（HLI）逼真度高，速度慢
 ### 规模
 ### 仿真帮助无人驾驶感知开发
