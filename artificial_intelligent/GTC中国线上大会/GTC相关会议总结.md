@@ -227,3 +227,13 @@ grammar_cjkRuby: true
 Maya/3ds max (FBX) -> Houdini(USD) -> DRIVE Sim
 RoadRunner:场景装配
 ### 未来Drive Sim仿真场景制作流程Omniverse
+![Omniverse](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1610163822666.png)
+
+## Nvidia Drive Sim帮助解决无人驾驶预期功能安全问题
+时间：12-18
+单位：NVIDA
+### 测试驱动开发
+### 预期功能安全的定义
+### 仿真优先无人驾驶开发策略
+### 规模
+### 仿真帮助无人驾驶感知开发
