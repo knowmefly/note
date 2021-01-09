@@ -224,4 +224,6 @@ grammar_cjkRuby: true
 单位：51WORLD
 
 ### nvidia drive sim
-
+Maya/3ds max (FBX) -> Houdini(USD) -> DRIVE Sim
+RoadRunner:场景装配
+### 未来Drive Sim仿真场景制作流程Omniverse
