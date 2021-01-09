@@ -242,5 +242,7 @@ RoadRunner:场景装配
 2. software in the loop （SIL）逼真度低，速度快
 3. hardware in the loop（HLI）逼真度高，速度慢
 4. 加速测试
+5. 基于Python的新语言 HIGH-LEVEL SCENARIO DEFINTION LANGUAGE（hsdl）
+6. 
 ### 规模
 ### 仿真帮助无人驾驶感知开发
