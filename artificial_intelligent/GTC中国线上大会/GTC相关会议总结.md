@@ -253,13 +253,14 @@ RoadRunner:场景装配
 时间：12-17
 单位：NVIDIA
 ### NVIDIA DRIVE and DriveWorks SDK 介绍
-1. 架构介绍
+1. 架构介绍![架构介绍](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1610339293348.png)
 2. DRIVE OS -> DRIVEWORKS -> DRIVE AV and DRIVE IX
 3. Sensor Abstraction Layers (SAL)
 ### DriveWorks 采集
-1. 概要
+1. 概要![概要](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1610339314807.png)
 2. Sensor Timestamp
-	- 关键时钟域
-	- 时间同步
+	- 关键时钟域![关键时钟域](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1610339554108.png)
+	- 时间同步![时间同步](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1610339637123.png)
 ### DriveWorks 数据后处理
+
 ### DriveWorks 回放
