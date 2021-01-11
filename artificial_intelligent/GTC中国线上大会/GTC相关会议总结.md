@@ -261,6 +261,10 @@ RoadRunner:场景装配
 2. Sensor Timestamp
 	- 关键时钟域![关键时钟域](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1610339554108.png)
 	- 时间同步![时间同步](https://gitee.com/knowmefly/little_book_maker/raw/master/小书匠/1610339637123.png)
+3. 数据采集步骤
+	- 检查传感器状态
+	- 配置信息 rig文件
+	- 开始采集数据
 ### DriveWorks 数据后处理
 
 ### DriveWorks 回放
