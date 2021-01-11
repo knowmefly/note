@@ -259,5 +259,7 @@ RoadRunner:场景装配
 ### DriveWorks 采集
 1. 概要
 2. Sensor Timestamp
+	- 关键时钟域
+	- 时间同步
 ### DriveWorks 数据后处理
 ### DriveWorks 回放
