@@ -265,6 +265,9 @@ RoadRunner:场景装配
 	- 检查传感器状态
 	- 配置信息 rig文件
 	- 开始采集数据
+4. 
+5. 高通道采集
+5. 
 ### DriveWorks 数据后处理
 
 ### DriveWorks 回放
